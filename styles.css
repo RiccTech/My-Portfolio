@@ -312,6 +312,12 @@ footer {
         transform: translateY(20px);
     }
 
+    img {
+    width: 50%;
+    max-width: 300px;
+    height: auto;
+}
+
     to {
         opacity: 1;
         transform: translateY(0);
